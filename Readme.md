@@ -7,6 +7,8 @@ Claude Developer:
 
 Azure AI Fundamentals: 
   https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/
+  https://www.youtube.com/watch?v=scJ4mobwjBQ
 
 AWS AI Practitioner:
   https://aws.amazon.com/certification/certified-ai-practitioner/
+  https://www.youtube.com/watch?v=WZeZZ8_W-M4
